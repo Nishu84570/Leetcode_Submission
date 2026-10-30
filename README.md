@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Nishu84570/leetcode_Submission/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Nishu84570/leetcode_Submission/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Nishu84570/leetcode_Submission/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/1929-concatenation-of-array) |
 ## Greedy
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Nishu84570/leetcode_Submission/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Nishu84570/leetcode_Submission/tree/master/0645-set-mismatch) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Nishu84570/leetcode_Submission/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
