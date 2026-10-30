@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nishu84570/leetcode_Submission/tree/master/0001-two-sum) |
 | [0135-candy](https://github.com/Nishu84570/leetcode_Submission/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nishu84570/leetcode_Submission/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Nishu84570/leetcode_Submission/tree/master/0485-max-consecutive-ones) |
@@ -55,5 +56,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nishu84570/leetcode_Submission/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nishu84570/leetcode_Submission/tree/master/1441-build-an-array-with-stack-operations) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nishu84570/leetcode_Submission/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
