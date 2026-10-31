@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nishu84570/leetcode_Submission/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0263-ugly-number) |
+| [0728-self-dividing-numbers](https://github.com/Nishu84570/leetcode_Submission/tree/master/0728-self-dividing-numbers) |
 | [2485-find-the-pivot-integer](https://github.com/Nishu84570/leetcode_Submission/tree/master/2485-find-the-pivot-integer) |
 ## Prefix Sum
 |  |
